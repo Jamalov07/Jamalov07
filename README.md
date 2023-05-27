@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm No'monjon Jamalov</h1>
-<h3 align="center">I'm Full Stack developer(Nodejs with VueJs)</h3>
+<h3 align="center">I'm Full Stack developer(Nodejs + VueJs)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamalov07&label=Profile%20views&color=0e75b6&style=flat" alt="jamalov07" /> </p>
 
