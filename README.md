@@ -8,7 +8,7 @@
 <a href="https://linkedin.com/in/www.linkedin.com/in/nomonjon-jamalov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nomonjon-jamalov" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/20549543" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20549543" height="30" width="40" /></a>
   <a href="https://t.me/New_Prime_Minister_of_Uzbekistan" target="blank"> 
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20549543" height="30" width="40" />
+<img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fen%2Fsearch%3Fq%3Dtelegram%2BLogo&psig=AOvVaw3fEUo6Af9oT2CKNiH3GlTN&ust=1692425006776000&source=images&cd=vfe&opi=89978449&ved=0CBEQjhxqFwoTCOiTyM3E5YADFQAAAAAdAAAAABAE" alt="20549543" height="30" width="40" />
   
   </a>
 <a href="https://instagram.com/https://instagram.com/shaxabiddinovich07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/shaxabiddinovich07" height="30" width="40" /></a>
