@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Nu'monjon Jamalov</h1>
+<h1>Hi 👋, I'm No'monjon Jamalov</h1>
 <h3>I'm a Full Stack developer</h3>
 <!-- <h1>[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/numonjon_jamalov) </h1>-->
   
